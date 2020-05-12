@@ -3,7 +3,6 @@
 A simple React Native switch with effects
 
 [![Version](https://img.shields.io/npm/v/open-source-npm-package-template.svg)](https://www.npmjs.com/package/rn-slide-switch)
-![Travis (.org)](https://www.npmjs.com/package/rn-slide-switch)
 [![Downloads/week](https://img.shields.io/npm/dw/open-source-npm-package-template.svg)](https://www.npmjs.com/package/rn-slide-switch)
 [![License](https://img.shields.io/npm/l/open-source-npm-package-template.svg)](https://github.com/iamrafo/rn-slide-switch/blob/master/package.json)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors)
