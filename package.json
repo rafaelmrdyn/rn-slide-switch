@@ -1,0 +1,23 @@
+{
+  "name": "rn-slide-switch",
+  "version": "1.0.0",
+  "description": "A simple React Native switch with effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rn",
+    "react-native",
+    "react",
+    "native",
+    "switch",
+    "options"
+  ],
+  "author": "Rafael Muradyan <rafaelmrdyn@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  }
+}
