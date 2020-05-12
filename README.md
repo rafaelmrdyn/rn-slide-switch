@@ -31,12 +31,13 @@ It's a pretty easy to use this library. This is the usage example :
 ```javascript
 
 import React from 'react'
+import SlideSwitch from 'rn-slide-switch'
 
 const Preview = () => {
   return (
     <SlideSwitch 
         list={['option 1', 'option 2', 'option 3']} 
-        initialIndex={2} 
+        initialIndex={2}
         activeViewStyle={{backgroundColor: 'blue'}} 
         activeTextStyle={{color: 'white'}}
         onChange={(i) => console.log(i)}
@@ -51,8 +52,10 @@ const Preview = () => {
 | --------- | :-------: | :--------: | :----------: |
 | list | `array` | `true` | [] |
 | initialIndex | `number` | `false` | 0 |
-| activeViewStyle | `object` | `false` | {} |
-| activeTextStyle | `object` | `false` | {} |
+| activeViewStyle | `object` | `false` | {backgroundColor: 'blue'} |
+| activeTextStyle | `object` | `false` | {color: 'white'} |
+| passiveViewStyle | `object` | `false` | {backgroundColor: 'white'} |
+| passiveTextStyle | `object` | `false` | {color: 'black'} |
 
 ## Contributors ✨
 
