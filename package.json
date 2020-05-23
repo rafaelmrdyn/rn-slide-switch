@@ -1,6 +1,6 @@
 {
   "name": "rn-slide-switch",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple React Native switch with effects",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamrafo/rn-slide-switch.git"
+    "url": "https://github.com/rafaelmrdyn/rn-slide-switch.git"
   }
 }
